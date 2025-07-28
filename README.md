@@ -17,7 +17,6 @@ Une API REST avec Express.js et MongoDB permettant de gérer un stock de produit
 - Express.js
 - MongoDB avec Mongoose
 
-## Installation et utilisation
 
 ## image de l'API d'une applcation de gestion de produit
 
